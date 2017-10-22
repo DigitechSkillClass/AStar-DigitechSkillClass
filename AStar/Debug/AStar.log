@@ -1,0 +1,4 @@
+﻿  cMainGame.cpp
+c:\users\skillclass\documents\visual studio 2015\projects\astar\astar\cmaingame.cpp(125): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  AStar.vcxproj -> c:\users\skillclass\documents\visual studio 2015\Projects\AStar\Debug\AStar.exe
+  AStar.vcxproj -> c:\users\skillclass\documents\visual studio 2015\Projects\AStar\Debug\AStar.pdb (Full PDB)
